@@ -2365,5 +2365,46 @@
 				"offset": 0
 			}
 		}
+	},
+	{
+	  "telescopes": [
+	    "",
+	    "ZTF"
+	  ],
+	  "instruments": [
+	    "",
+	    "ZTF"
+	  ],
+	  "bandsets": [
+	    "",
+	    "Rubin",
+	    "ZTF"
+	  ],
+	  "filters": {
+	    "g": {
+	      "SVO": "Palomar/ZTF.g",
+	      "offset": 0
+	    },
+	    "r": {
+	      "SVO": "Palomar/ZTF.r",
+	      "offset": 0
+	    },
+	    "i": {
+	      "SVO": "Palomar/ZTF.i",
+	      "offset": 0
+	    },
+	    "g_ZTF": {
+	      "SVO": "Palomar/ZTF.g",
+	      "offset": 0
+	    },
+	    "r_ZTF": {
+	      "SVO": "Palomar/ZTF.r",
+	      "offset": 0
+	    },
+	    "i_ZTF": {
+	      "SVO": "Palomar/ZTF.i",
+	      "offset": 0
+	    }
+	  }
 	}
 ]
